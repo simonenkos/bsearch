@@ -1,0 +1,1 @@
+all: ; gcc bsearch.c -o bsearch
